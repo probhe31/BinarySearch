@@ -6,11 +6,11 @@ Binary Search es de **complejidad Logarítmica O(log n)**. Este tipo en general 
 
 **Tiempo para encontrar uno _(Cuántos elementos se necesitan revisar)_** 1    2	3	4    t
 
-2^t - 1 = n
-Resolviendo t en términos de n
-2^t = n+1
-log2(2^t) = log2(n+1) 
-t = log2(n+1) 
+* 2^t - 1 = n
+* Resolviendo t en términos de n
+* 2^t = n+1
+* log2(2^t) = log2(n+1) 
+* t = log2(n+1) 
 
 El tiempo es logarítmico en el número de elementos. El tiempo es proporcial al logaritmo del número de elementos.
 
