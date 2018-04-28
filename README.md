@@ -1,10 +1,10 @@
 # BinarySearch
 
-Binary Search es de ** complejidad Logarítmica O(log n) **. Este tipo en general se asocia con algoritmos que aplican "divide and conquer approach" para poder abordarlo.
+Binary Search es de **complejidad Logarítmica O(log n)**. Este tipo en general se asocia con algoritmos que aplican "divide and conquer approach" para poder abordarlo.
 
-Tamaño de la lista 	(Número de los elementos) 1   3   7   10   2^t-1										
+**Tamaño de la lista 	_(Número de los elementos)_** 1   3   7   10   2^t-1										
 
-Tiempo para encontrar uno (Cuántos elementos se necesitan revisar) 1    2	3	4    t
+**Tiempo para encontrar uno _(Cuántos elementos se necesitan revisar)_** 1    2	3	4    t
 
 2^t - 1 = n
 Resolviendo t en términos de n
