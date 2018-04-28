@@ -1,0 +1,6 @@
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\bh_31\OneDrive\Documents\Maestria\ambientes\busquedabinaria\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
